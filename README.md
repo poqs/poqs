@@ -1,4 +1,4 @@
 ## :wrench: I **know**
 
-- :computer: C# | C++ | Python
+- :computer: c | c# | c++ | python, js & web
 - everything
